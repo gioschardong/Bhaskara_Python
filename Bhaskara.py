@@ -18,4 +18,4 @@ else:
     x1 = (- B + math.sqrt(Delta)) / (2*A)
     x2 = (- B - math.sqrt(Delta)) / (2*A)
 
-    print("x1: {}, x2: {}".format(x1, x2))
+    print("x1: {}, x2: {}".format(x1, x2)) 
